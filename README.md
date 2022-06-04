@@ -1,0 +1,3 @@
+# gitanshu-s-python-workspace
+Here are all the projects and the madness i did in python......... 
+(But some of it might not work 1 or 2 files i think as i don't don't remember i wrote it a long time ago)﻿
